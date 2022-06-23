@@ -40,7 +40,7 @@ pkg i git
 
 pkg i nodejs
 
-git clone https://github.com/JustR285/sg.git
+git clone https://github.com/JustR285/sgv2.git
 
 cd sg
 
